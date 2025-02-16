@@ -1,0 +1,20 @@
+{
+  "name": "chai",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "keywords": [
+    "node"
+  ],
+  "license": "ISC",
+  "author": "chaitu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "chai": "file:",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
